@@ -1726,8 +1726,8 @@
 	}
 
 	header.major h2 {
-		color: #4acaa8;
-		font-size: 3.5em;
+		color: #ffff22;
+		font-size: 6.5em;
 	}
 
 		header.major h2 + p {
@@ -2222,7 +2222,7 @@
 		}
 
 		table th {
-			color: #777;
+			color: #ggez;
 			font-size: 0.9em;
 			font-weight: 700;
 			padding: 0 0.75em 0.75em 0.75em;
@@ -2414,7 +2414,7 @@
 /* Features */
 
 	.features article {
-		border-top: solid 3px #f4f4f4;
+		border-top: solid 3px #ffff;
 		margin-bottom: 2.25em;
 		padding-top: 2.25em;
 	}
@@ -2600,7 +2600,7 @@
 /* One */
 
 	#one:before {
-		background-image: url("../../images/banner.png");
+		background-image: url("../../images/Fy-lTtsakAA1sxn.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
@@ -2689,19 +2689,19 @@
 		/* Basic */
 
 			body, input, select, textarea {
-				font-size: 11pt;
+				font-size: 50pt;
 			}
 
 		/* Header */
 
 			#header {
-				width: 20em;
+				width: 40em;
 			}
 
 		/* Wrapper */
 
 			#wrapper {
-				padding-right: 20em;
+				padding-right: 70em;
 			}
 
 	}
