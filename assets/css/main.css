@@ -1574,7 +1574,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #444444 !important;
+			color: #e25e25 !important;
 		}
 
 	strong, b {
@@ -1726,7 +1726,7 @@
 	}
 
 	header.major h2 {
-		color: #444444;
+		color: #e25e25;
 		font-size: 3.5em;
 	}
 
@@ -1789,7 +1789,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #444444;
+			border-color: #e25e25;
 		}
 
 	.select-wrapper {
@@ -1893,13 +1893,13 @@
 		input[type="radio"]:checked + label:before {
 			background: #989898;
 			border-color: #989898;
-			color: #444444;
+			color: #e25e25;
 			content: '\f00c';
 		}
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #444444;
+			border-color: #e25e25;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2092,9 +2092,9 @@
 				}
 
 				ul.feature-icons li:before {
-					background: #444444;
+					background: #e25e25;
 					border-radius: 100%;
-					color: #444444;
+					color: #e25e25;
 					display: block;
 					height: 2.5em;
 					left: 0;
@@ -2280,7 +2280,7 @@
 		background-color: #989898;
 		border-radius: 5px;
 		border: 0;
-		color: #444444 !important;
+		color: #e25e25 !important;
 		cursor: pointer;
 		display: inline-block;
 		font-weight: 700;
@@ -2297,7 +2297,7 @@
 		input[type="button"]:hover,
 		.button:hover {
 			background-color: #a5a5a5;
-			color: #444444 !important;
+			color: #e25e25 !important;
 		}
 
 		input[type="submit"]:active,
@@ -2379,22 +2379,22 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #444444;
-			color: #444444 !important;
+			background-color: #e25e25;
+			color: #e25e25 !important;
 		}
 
 			input[type="submit"].special:hover,
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
 			.button.special:hover {
-				background-color: #444444;
+				background-color: #e25e25;
 			}
 
 			input[type="submit"].special:active,
 			input[type="reset"].special:active,
 			input[type="button"].special:active,
 			.button.special:active {
-				background-color: #444444;
+				background-color: #e25e25;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -2461,7 +2461,7 @@
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #444444;
+		background: #e25e25;
 		color: #d1f1e9;
 		height: 100%;
 		overflow-y: auto;
@@ -2473,15 +2473,15 @@
 	}
 
 		#header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #444444;
+			color: #e25e25;
 		}
 
 			#header h1 a, #header h2 a, #header h3 a, #header h4 a, #header h5 a, #header h6 a {
-				color: #444444;
+				color: #e25e25;
 			}
 
 		#header header p {
-			color: #444444;
+			color: #e25e25;
 		}
 
 		#header a {
@@ -2489,7 +2489,7 @@
 		}
 
 			#header a:hover {
-				color: #444444 !important;
+				color: #e25e25 !important;
 			}
 
 		#header > header {
@@ -2561,7 +2561,7 @@
 						-ms-transition: none;
 						transition: none;
 						border: 0;
-						color: #444444 !important;
+						color: #e25e25 !important;
 						display: block;
 						padding: 0.85em 0;
 						text-decoration: none;
@@ -2848,8 +2848,8 @@
 					}
 
 					#titleBar .toggle:before {
-						background: #444444;
-						color: #444444;
+						background: #e25e25;
+						color: #e25e25;
 						content: '\f0c9';
 						display: block;
 						font-size: 18px;
