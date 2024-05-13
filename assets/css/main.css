@@ -1726,7 +1726,7 @@
 	}
 
 	header.major h2 {
-		color: #4acaa8;
+		color: #FFFFgg;
 		font-size: 3.5em;
 	}
 
@@ -2885,7 +2885,7 @@
 		/* Basic */
 
 			body, input, select, textarea {
-				font-size: 12pt;
+				font-size: 100pt;
 			}
 
 			h1 br, h2 br, h3 br, h4 br, h5 br, h6 br {
